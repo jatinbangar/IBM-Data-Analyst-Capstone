@@ -14,3 +14,17 @@ Data Wrangling or Munging is a process in which we clean up the data set and mak
 * Finding Missing Values: Find the number of missing values for all columns.
 * Imputing Missing Values: Find the value counts for the column "Employment".
 * Normalizing Data: Normalize the data using two existing columns.
+
+## Module 3: Exploratory Data Analysis
+
+* Identify the distribution of data in the dataset.
+* Identify outliers in the dataset.
+* Remove outliers from the dataset.
+* Identify correlation between features in the dataset.
+
+## Module 4: Data Visualization
+
+* Visualize distribution of data.
+* Visualize relationship between two features.
+* Visualize composition of data.
+* Show comparison of data using line and stacked bar charts.
